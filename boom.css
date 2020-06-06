@@ -1,0 +1,14 @@
+.wolves{
+    height: 1000px;
+    width: 1000px;
+    background:url(https://sun9-44.userapi.com/c848736/v848736190/166588/SVHArTis6EA.jpg?ava=1) red  no-repeat;
+    background-size: cover;
+
+}
+.retards{
+font-size: 90px;
+
+}
+body{
+display:flex;
+}
